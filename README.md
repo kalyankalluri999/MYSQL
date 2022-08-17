@@ -1,27 +1,37 @@
-# MYSQL
+**SQL is a standard language for accessing and manipulating databases.**
 
-**What is MySQL?**
+**What is SQL?**
 
-MySQL is a free open-source relational database management system
+SQL stands for Structured Query Language
+SQL lets you access and manipulate databases
+SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987
 
-MySQL is ideal for both small and large applications.
+**What Can SQL do?**
 
-MySQL is very fast, reliable, scalable, and easy to use.
+SQL can execute queries against a database
 
-MySQL is cross-platform.
+SQL can retrieve data from a database
 
-MySQL is compliant with the ANSI SQL standard.
+SQL can insert records in a database
 
-MySQL was first released in 1995.
+SQL can update records in a database
 
-MySQL is developed, distributed, and supported by Oracle Corporation.
+SQL can delete records from a database
 
-MySQL is named after co-founder Monty Widenius's daughter: My
+SQL can create new databases
+
+SQL can create new tables in a database
+
+SQL can create stored procedures in a database
+
+SQL can create views in a database
+
+SQL can set permissions on tables, procedures, and views
 
 
-**Who Uses MySQL?**
+**SQL is a Standard - BUT....**
 
-•	Huge websites like Facebook, Twitter, Airbnb, Booking.com, Uber, GitHub, YouTube, etc.
-•	Content Management Systems like WordPress, Drupal, Joomla!, Contao, etc.
-•	A very large number of web developers around the world
+Although SQL is an ANSI/ISO standard, there are different versions of the SQL language. However, to be compliant with the ANSI standard, they all support at least the major commands (such as SELECT, UPDATE, DELETE, INSERT, WHERE) in a similar manner.
+
+**Note:-** Most of the SQL database programs also have their own proprietary extensions in addition to the SQL standard!
 
